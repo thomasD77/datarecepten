@@ -1,0 +1,53 @@
+ {
+      gerechten: [
+        {
+          "id": 1,
+          "image": '../assets/logo.png',
+          "title": 'Salmon with sweet potato',
+          "description": 'The healthiest thing in the world',
+          "date": 'December 15, 2020',
+          "ingredients": 'Salmon and Sweet potato with ricota'
+        },
+        {
+          "id": 2,
+          "image": '../assets/',
+          "title": 'Honey Chicken',
+          "description": 'The best Chineese dish for you',
+          "date": 'December 15, 2020',
+          "ingredients": 'Honey with Chicken mixed with brown rice'
+        },
+        {
+          "id": 3,
+          "image": './assets/',
+          "title": 'BIMI Chicken Pie',
+          "description": 'In no time, the best Chicken Pie in the world',
+          "date": 'December 15, 2020',
+          "ingredients": 'Brocolli, with Chicken and Tomato'
+        },
+        {
+          "id": 4,
+          "image": './assets/',
+          "title": 'Pesto Sandwich',
+          "description": 'This is too good to be true',
+          "date": 'December 15, 2020',
+          "ingredients": 'A lot of pesto with a chicken in a sandwich'
+        },
+        {
+          "id": 5,
+          "image": './assets/',
+          "title": 'Salsa Buritto ',
+          "description": 'Roll it up! Buritto Salsa Chicken',
+          "date": 'December 15, 2020',
+          "ingredients": 'Garlic, onion, chicken, advocado,...'
+        },
+        {
+          "id": 6,
+          "image": './assets/',
+          "title": 'Melting BBQ Nachos',
+          "description": 'Pulled chicken with Mexican Nachos',
+          "date": 'December 15, 2020',
+          "ingredients": 'Nachos, bbq-saus, chicken salsa'
+        },
+      ]
+    }
+  }
