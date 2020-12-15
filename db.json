@@ -1,5 +1,6 @@
- {
-      "gerechten": [
+{
+   "gerechten": 
+[
         {
           "id": 1,
           "title": "Salmon with sweet potato",
@@ -42,5 +43,5 @@
           "date": "December 15, 2020",
           "ingredients": "Nachos, bbq-saus, chicken salsa"
         },
-      ]
+ ]
  }
