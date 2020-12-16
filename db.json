@@ -6,6 +6,8 @@
           "description": "The healthiest thing in the world",
           "date": "December 15, 2020",
           "ingredients": "Salmon and Sweet potato with ricota"
+	  "image": "../../assets/salmon.png"
+			
         },
         {
           "id": 2,
